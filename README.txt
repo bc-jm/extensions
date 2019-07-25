@@ -12,3 +12,6 @@ Commit Alberto
 
 
 pull request estensione RIMOSSA !!!
+
+
+unset ALL git
