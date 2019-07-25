@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 2935741264 - Action 1385178742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adiuto</source>
+          <target>Adiuto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Pass. Cycle Electr.Doc. - Action Adiuto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 3965535684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Name</source>
+          <target>Benutzername</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Reg. User Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target>Belegart</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 2363328873 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quote,Order,Invoice,Credit Memo,Blanket Order,Return Order</source>
+          <target>Angebot,Auftrag,Rechnung,Gutschrift,Rahmenauftrag,Reklamation</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Document Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 2480638018 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Vendor No.</source>
+          <target>Eink. von Kred.-Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Document Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>Art</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,G/L Account,Item,,Fixed Asset,Charge (Item)</source>
+          <target> ,Sachkonto,Artikel,,WG/Anlage,Zu-/Abschlag (Artikel)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beschreibung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 1920046521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure</source>
+          <target>Einheit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Menge</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Betrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 1246077090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <target>MwSt. %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field VAT % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 4187992892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct Unit Cost</source>
+          <target>EK-Preis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Direct Unit Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3169840753 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assigned User ID</source>
+          <target>Zugewiesene Benutzer-ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Electr. Doc. Log - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3965535684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Name</source>
+          <target>Benutzername</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Reg. User Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target>Belegart</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 2363328873 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quote,Order,Invoice,Credit Memo,Blanket Order,Return Order</source>
+          <target>Angebot,Auftrag,Rechnung,Gutschrift,Rahmenauftrag,Reklamation</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Document Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3792369418 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Vendor No.</source>
+          <target>Eink. von Kred.-Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from Vendor No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3230600482 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Vendor Name</source>
+          <target>Eink. von Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from Vendor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3183194544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Vendor Name 2</source>
+          <target>Eink. von Name 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from Vendor Name 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 4003957413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Address</source>
+          <target>Eink. von Adresse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 1455637603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Address 2</source>
+          <target>Eink. von Adresse 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from Address 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3425279406 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from City</source>
+          <target>Eink. von Ort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 1750733095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact</source>
+          <target>Eink. von Kontakt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from Contact - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 852404356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Post Code</source>
+          <target>Eink. von PLZ-Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 1976942833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from County</source>
+          <target>Eink. von Bundesregion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from County - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 2931503505 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Country/Region Code</source>
+          <target>Eink. von Länder-/Regionscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 580412389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target>Belegdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Document Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Buchungsdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3961227134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Invoice No.</source>
+          <target>Kred.-Rechnungsnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Vendor Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 4272836170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Cr. Memo No.</source>
+          <target>Kred.-Gutschriftsnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Vendor Cr. Memo No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3306036976 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Total</source>
+          <target>Gesamtbetrag Schecks</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Check Total - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target>Währungscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Document No.</source>
+          <target>Externe Belegnummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 2914143468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CIG Code</source>
+          <target>CIG Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field CIG Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3623919605 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CUP Code</source>
+          <target>CUP Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field CUP Code - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

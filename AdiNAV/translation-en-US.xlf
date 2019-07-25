@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 825746716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adiuto Setup Detail Lines</source>
+          <target>Adiuto Setup Detail Lines</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Setup Detail Lines ED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 670456231 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adiuto Electr. Doc. Temp. Card</source>
+          <target>Adiuto Electr. Doc. Temp. Card</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Electr. Doc. Temp. Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2935741264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adiuto Import Electr. Doc. List</source>
+          <target>Adiuto Import Electr. Doc. List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Pass. Cycle Electr.Doc. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1300351528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adiuto Setup</source>
+          <target>Adiuto Setup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Setup ED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1300351528 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>General</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Setup ED - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 670456231 - Control 4077097412 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Header</source>
+          <target>Document Header</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Electr. Doc. Temp. Card - Control Document Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 670456231 - Control 3031887972 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XML fields</source>
+          <target>XML fields</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Electr. Doc. Temp. Card - Control XML fields - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 670456231 - Control 4089506658 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NAV document conversion</source>
+          <target>NAV document conversion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Electr. Doc. Temp. Card - Control NAV document conversion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1300351528 - Control 3133801257 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company</source>
+          <target>Company</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Setup ED - Control Company - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2935741264 - Action 284195533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filters</source>
+          <target>Filters</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Pass. Cycle Electr.Doc. - Action Filters - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2935741264 - Action 2629037283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Confirm</source>
+          <target>To Confirm</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Pass. Cycle Electr.Doc. - Action SelectToConfirm - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1300351528 - Control 3885206316 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NAV Table Setup</source>
+          <target>NAV Table Setup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Setup ED - Control NAV Table Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2935741264 - Action 961322877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Confirm</source>
+          <target>To Confirm</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Pass. Cycle Electr.Doc. - Action SelectConfirmed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1300351528 - Control 3921990236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchases &amp; Payables Setup</source>
+          <target>Purchases &amp; Payables Setup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Setup ED - Control Purchases &amp; Payables Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2935741264 - Action 732012919 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Actions</source>
+          <target>Actions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Pass. Cycle Electr.Doc. - Action Actions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1300351528 - Control 4145206282 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales &amp; Receivables Setup</source>
+          <target>Sales &amp; Receivables Setup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Setup ED - Control Sales &amp; Receivables Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2935741264 - Action 2458398022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get Electr. Inv. from Adiuto</source>
+          <target>Get Electr. Inv. from Adiuto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Pass. Cycle Electr.Doc. - Action Get Electr. Inv. from Adiuto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2935741264 - Action 393501502 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Electr. Inv. from XML</source>
+          <target>Import Electr. Inv. from XML</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Pass. Cycle Electr.Doc. - Action Import Electr. Inv. from XML - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 670456231 - NamedType 3035203653" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modify not allowed</source>
+          <target>Modify not allowed</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Electr. Doc. Temp. Card - NamedType gText001</note>
+        </trans-unit>
+        <trans-unit id="Page 825746716 - Control 3793750791 - Method 2699620902 - NamedType 90840031" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adiuto Familiy not selected</source>
+          <target>Adiuto Familiy not selected</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Setup Detail Lines ED - Control Adiuto Field Id - Method OnAssistEdit - NamedType contTxtErrorFamilyId</note>
+        </trans-unit>
+        <trans-unit id="Page 2935741264 - Action 393501502 - Method 1377591017 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Document from Adiuto?</source>
+          <target>Import Document from Adiuto?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Pass. Cycle Electr.Doc. - Action Import Electr. Inv. from XML - Method OnAction - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 2935741264 - Action 2858019651 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Convert Document</source>
+          <target>Convert Document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Pass. Cycle Electr.Doc. - Action Create Purch. Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2935741264 - Action 2858019651 - Method 1377591017 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to Convert selected document in Microsoft Dynamics NAV document?</source>
+          <target>Do you want to Convert selected document in Microsoft Dynamics NAV document?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Pass. Cycle Electr.Doc. - Action Create Purch. Header - Method OnAction - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 2935741264 - Action 2858019651 - Method 1377591017 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select document to convert</source>
+          <target>Select document to convert</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Pass. Cycle Electr.Doc. - Action Create Purch. Header - Method OnAction - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 2935741264 - Action 2858019651 - Method 1377591017 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select document with the same type</source>
+          <target>Select document with the same type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Pass. Cycle Electr.Doc. - Action Create Purch. Header - Method OnAction - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 825746716 - Action 575947344 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set editable Flowfield</source>
+          <target>Set editable Flowfield</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Setup Detail Lines ED - Action Set editable Flowfield - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2935741264 - Action 1385178742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adiuto</source>
+          <target>Adiuto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Pass. Cycle Electr.Doc. - Action Adiuto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2935741264 - Action 4258407207 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Docs</source>
+          <target>Show Docs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Pass. Cycle Electr.Doc. - Action ADI_ViewDocs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1300351528 - Control 2462321760 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Documents</source>
+          <target>Documents</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Setup ED - Control AdiutoSetupDetail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2935741264 - NamedType 3035203653" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modify not allowed</source>
+          <target>Modify not allowed</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Pass. Cycle Electr.Doc. - NamedType gText001</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adiuto Setup</source>
+          <target>Adiuto Setup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 825746716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adiuto Setup Detail Lines</source>
+          <target>Adiuto Setup Detail Lines</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail Lines ED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adiuto Setup Detail</source>
+          <target>Adiuto Setup Detail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 1882905478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source No.</source>
+          <target>Source No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Source No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 162979745 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ip Address</source>
+          <target>Ip Address</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Ip Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 2066789741 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NAV Table Id</source>
+          <target>NAV Table Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field Table Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 3074429411 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Port</source>
+          <target>Port</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Port - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 1814464443 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User</source>
+          <target>User</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Document No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 2575460289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <target>Password</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Password - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 4235808334 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IdUnivoco</source>
+          <target>IdUnivoco</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field IdUnivoco - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 2178641707 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Path SDK</source>
+          <target>Path SDK</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Path SDK - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 1527388844 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Company Id</source>
+          <target>Field Company Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Field Company Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 825746716 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail Lines ED - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 2067549726 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reg. Date</source>
+          <target>Reg. Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Reg. Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 1966463094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Company Name</source>
+          <target>Field Company Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Field Company Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 825746716 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>Line No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail Lines ED - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 4220158909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reg. Time</source>
+          <target>Reg. Time</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Reg. Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 1500278866 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value Field Company</source>
+          <target>Value Field Company</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Value Field Company - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 825746716 - Field 3425347490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NAV Field Id</source>
+          <target>NAV Field Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail Lines ED - Field NAV Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 3483044347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable</source>
+          <target>Enable</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Enable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 3965535684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Name</source>
+          <target>User Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Reg. User Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 825746716 - Field 3312679608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NAV Field Name</source>
+          <target>NAV Field Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail Lines ED - Field NAV Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 3996553144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable Connected Users</source>
+          <target>Enable Connected Users</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Enable Connected Users - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 825746716 - Field 3793750791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adiuto Field Id</source>
+          <target>Adiuto Field Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail Lines ED - Field Adiuto Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 1711141246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mandatory Invoice Barcode</source>
+          <target>Mandatory Invoice Barcode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Mandatory Invoice Barcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 414488530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Document No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Reg. Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 825746716 - Field 3527718049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adiuto Field Name</source>
+          <target>Adiuto Field Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail Lines ED - Field Adiuto Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 1565620128 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Invoice Duplicated Barcode </source>
+          <target>Check Invoice Duplicated Barcode </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Check Invoice Barcode Dup. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 2205354803 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reg. Document Type</source>
+          <target>Reg. Document Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Reg. Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 825746716 - Field 214973729 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use for Insertion</source>
+          <target>Use for Insertion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail Lines ED - Field Use for Insertion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 3691626985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mandatory Receipt Barcode</source>
+          <target>Mandatory Receipt Barcode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Mandatory Receipt Barcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 3438441738 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Rcpt. Duplicated Barcode</source>
+          <target>Check Rcpt. Duplicated Barcode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Check Rcpt. Barcode Duplicate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 4116156390 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mandatory Return Rcpt. Barcode</source>
+          <target>Mandatory Return Rcpt. Barcode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Mandatory Return Rcpt. Barcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 3544086084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Return Rcpt. Duplicated Barcode</source>
+          <target>Check Return Rcpt. Duplicated Barcode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Check Return Rcpt. Duplicate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 2882296679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electr. Doc. Start Status</source>
+          <target>Electr. Doc. Start Status</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Electr. Doc. Start Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 4025742448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electr. Doc. Publish Status</source>
+          <target>Electr. Doc. Publish Status</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Electr. Doc. Publish Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target>Document Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 4259271666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electr. Doc. Finish Status</source>
+          <target>Electr. Doc. Finish Status</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Electr. Doc. Finish Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 2363328873 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quote,Order,Invoice,Credit Memo,Blanket Order,Return Order</source>
+          <target>Quote,Order,Invoice,Credit Memo,Blanket Order,Return Order</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Document Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 1035853875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Multiple Publish</source>
+          <target>Multiple Publish</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Multiple Publish - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 883845165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electr. Doc. Finish Status</source>
+          <target>Electr. Doc. Finish Status</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Electr. Doc. to Import Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 30503539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electr. Doc. Imported</source>
+          <target>Electr. Doc. Imported</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Electr. Doc. Imported Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 499792620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electr. Doc. Export Path</source>
+          <target>Electr. Doc. Export Path</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Electr. Doc. Export Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 1237952872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electr. Doc. Pre. Reg. Enable</source>
+          <target>Electr. Doc. Pre. Reg. Enable</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Electr. Doc. Pre-Reg. Enable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 868081723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electr. Doc. Pre-Reg. Status</source>
+          <target>Electr. Doc. Pre-Reg. Status</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Electr. Doc. Pre-Reg. Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 327409999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electr. Doc. Registered Status</source>
+          <target>Electr. Doc. Registered Status</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Electr. Doc. Registered Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 2918733141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electr. Doc. Currency Code</source>
+          <target>Electr. Doc. Currency Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Electr. Doc. Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 4027086832 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Standard,Web</source>
+          <target> ,Standard,Web</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field SDK Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 2066789741 - Method 2126772001 - NamedType 672599587" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Child Rows Found.</source>
+          <target>Child Rows Found.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field Table Id - Method OnValidate - NamedType Txt001</note>
+        </trans-unit>
+        <trans-unit id="Table 825746716 - Field 1570063026 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use for Searching</source>
+          <target>Use for Searching</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail Lines ED - Field Use for Searching - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NAV Document Type</source>
+          <target>NAV Document Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 825746716 - Field 2361767787 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use for Update</source>
+          <target>Use for Update</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail Lines ED - Field Use for Update - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 1174758285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Document</source>
+          <target>Create Document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field Create Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 825746716 - Field 1975138498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Decimal Separator</source>
+          <target>Decimal Separator</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail Lines ED - Field Decimal Separator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 613381766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Id</source>
+          <target>Company Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Company Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 3446055168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id Family Document</source>
+          <target>Id Family Document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field Id Family Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 2480638018 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Vendor No.</source>
+          <target>Buy-from Vendor No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Document Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 3032211356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Barcode Field No.</source>
+          <target>Invoice Barcode Field No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Invoice Barcode Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 4273296431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery Barcode Field No.</source>
+          <target>Delivery Barcode Field No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Delivery Barcode Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,G/L Account,Item,,Fixed Asset,Charge (Item)</source>
+          <target> ,G/L Account,Item,,Fixed Asset,Charge (Item)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 583169437 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Connected User Field No.</source>
+          <target>Connected User Field No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Connected User Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 3248307786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name Family Document</source>
+          <target>Name Family Document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field Name Family Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 3806225352 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variation Note Field No.</source>
+          <target>Variation Note Field No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Variation Note Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 3670431114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email Adiuto</source>
+          <target>Email Adiuto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field Email Adiuto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 1477140454 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard,Xades</source>
+          <target>Standard,Xades</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Electr. Doc. signed xml - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 203700333 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NAV Report Id</source>
+          <target>NAV Report Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field Report Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 3714312595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electr. Doc. Delivery Status</source>
+          <target>Electr. Doc. Delivery Status</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Electr. Doc. Delivery Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 2203318874 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duty Stamp Amount Field No.</source>
+          <target>Duty Stamp Amount Field No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Duty Stamp Amount Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 3070320983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Name NAV</source>
+          <target>Field Name NAV</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 562188999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El. Doc. Posting Date</source>
+          <target>El. Doc. Posting Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field El. Doc. Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 1003006578 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XML Invoice</source>
+          <target>XML Invoice</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field XML Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 562188999 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Workdate,Document date,End Month Document date</source>
+          <target> ,Workdate,Document date,End Month Document date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field El. Doc. Posting Date - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 1920046521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure</source>
+          <target>Unit of Measure</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 1003006578 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Active XML,Passive XML,Variation Note</source>
+          <target> ,Active XML,Passive XML,Variation Note</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field XML Document - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1300351528 - Field 3784637924 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electr. Doc. B2B Value</source>
+          <target>Electr. Doc. B2B Value</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup ED - Field Electr. Doc. B2B Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Quantity</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 1003006578 - Method 2126772001 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You can't create more than one passive cycle reference to the same nav table id</source>
+          <target>You can't create more than one passive cycle reference to the same nav table id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field XML Document - Method OnValidate - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 1246077090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <target>VAT %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field VAT % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1732203951 - Field 4187992892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct Unit Cost</source>
+          <target>Direct Unit Cost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Line - Field Direct Unit Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 3414364457 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Extension</source>
+          <target>File Extension</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field File Extension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 1934809948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El. Doc. Status Fld. Id</source>
+          <target>El. Doc. Status Fld. Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field El. Doc. Status Fld. Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 212217830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El. Doc. Status Fld. Name</source>
+          <target>El. Doc. Status Fld. Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field El. Doc. Status Fld. Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 3118061372 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El. Doc. Status Fld. Id</source>
+          <target>El. Doc. Status Fld. Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field El. Doc. Barcode Fld. Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 3364500422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El. Doc. Status Fld. Name</source>
+          <target>El. Doc. Status Fld. Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field El. Doc. Barcode Fld. Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 2906691717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El. Doc. Attachment Report Id</source>
+          <target>El. Doc. Attachment Report Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field El. Doc. Attachment Report Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 3140922368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El. Doc. Att. Rpt. Setup Code</source>
+          <target>El. Doc. Att. Rpt. Setup Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field El. Doc. Att. Rpt. Setup Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 3525208138 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El. Doc. Trasmit. Id</source>
+          <target>El. Doc. Trasmit. Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field El. Doc. Trasmit. Fld. Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 851972208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El. Doc. Trasmit. Fld. Name</source>
+          <target>El. Doc. Trasmit. Fld. Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field El. Doc. Trasmit. Fld. Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 1808190907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El. Doc. VAT Reg. Id</source>
+          <target>El. Doc. VAT Reg. Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field El. Doc. VAT Reg. Fld. Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 433690965 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El. Doc. VAT Reg. Fld. Name</source>
+          <target>El. Doc. VAT Reg. Fld. Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field El. Doc. VAT Reg. Fld. Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 1013159573 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El. Doc. Progressive Fld. Id</source>
+          <target>El. Doc. Progressive Fld. Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field El. Doc. Progressive Fld. Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 168254715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El. Doc. Progressive Fld. Name</source>
+          <target>El. Doc. Progressive Fld. Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field El. Doc. Progressive Fld. Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 1152926224 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El. Doc. Cust. Comp. Fld. Id</source>
+          <target>El. Doc. Cust. Comp. Fld. Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field El. Doc. Cust. Comp. Fld. Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 3918403530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El. Doc. Cust. Comp. Fld. Name</source>
+          <target>El. Doc. Cust. Comp. Fld. Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field El. Doc. Cust. Comp. Fld. Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 373483714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El. Doc. B2B Fld. Id</source>
+          <target>El. Doc. B2B Fld. Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field El. Doc. B2B Fld. Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - Field 2086966488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El. Doc. B2B Fld. Name</source>
+          <target>El. Doc. B2B Fld. Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - Field El. Doc. B2B Fld. Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 245362847 - NamedType 672599587" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 field value must be %2 or %3</source>
+          <target>%1 field value must be %2 or %3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Setup Detail ED - NamedType Txt001</note>
+        </trans-unit>
+        <trans-unit id="Table 1245364861 - Field 1882905478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source No.</source>
+          <target>Source No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Electr. Doc. - Field Source No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1245364861 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Document No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Electr. Doc. - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1245364861 - Field 4235808334 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IdUnivoco</source>
+          <target>IdUnivoco</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Electr. Doc. - Field IdUnivoco - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1245364861 - Field 2268965417 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Content</source>
+          <target>File Content</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Electr. Doc. - Field File Content - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1245364861 - Field 804481195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Name</source>
+          <target>File Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Electr. Doc. - Field File Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1245364861 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target>Status</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Electr. Doc. - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 245362847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adiuto Setup Detail</source>
+          <target>Adiuto Setup Detail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Setup Detail ED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3169840753 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adiuto Electr. Doc. Log</source>
+          <target>Adiuto Electr. Doc. Log</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Electr. Doc. Log - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3169840753 - Field 1882905478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source No.</source>
+          <target>Source No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Electr. Doc. Log - Field Source No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3169840753 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Document No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Electr. Doc. Log - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3169840753 - Field 1650050144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode</source>
+          <target>Barcode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Electr. Doc. Log - Field Barcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3169840753 - Field 3108107879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operation</source>
+          <target>Operation</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Electr. Doc. Log - Field Operation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3169840753 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assigned User ID</source>
+          <target>Assigned User ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Electr. Doc. Log - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3169840753 - Field 2159743423 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Date Time</source>
+          <target>Log Date Time</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Electr. Doc. Log - Field Log Date Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3169840753 - Field 2898143332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Note</source>
+          <target>Note</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adiuto Electr. Doc. Log - Field Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electr. Doc. Temp. Header</source>
+          <target>Electr. Doc. Temp. Header</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 1882905478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source No.</source>
+          <target>Source No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Source No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Document No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 4235808334 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IdUnivoco</source>
+          <target>IdUnivoco</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field IdUnivoco - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 1650050144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode</source>
+          <target>Barcode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Barcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 2067549726 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reg. Date</source>
+          <target>Reg. Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Reg. Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 4220158909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reg. Time</source>
+          <target>Reg. Time</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Reg. Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3965535684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Name</source>
+          <target>User Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Reg. User Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1750755753 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adiuto Family/Field List</source>
+          <target>Adiuto Family/Field List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adiuto Family List ED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 414488530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Document No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Reg. Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 2205354803 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reg. Document Type</source>
+          <target>Reg. Document Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Reg. Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target>Document Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 2363328873 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quote,Order,Invoice,Credit Memo,Blanket Order,Return Order</source>
+          <target>Quote,Order,Invoice,Credit Memo,Blanket Order,Return Order</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Document Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3792369418 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Vendor No.</source>
+          <target>Buy-from Vendor No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from Vendor No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3230600482 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Vendor Name</source>
+          <target>Buy-from Vendor Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from Vendor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3183194544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Vendor Name 2</source>
+          <target>Buy-from Vendor Name 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from Vendor Name 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 4003957413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Address</source>
+          <target>Buy-from Address</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 1455637603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Address 2</source>
+          <target>Buy-from Address 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from Address 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3425279406 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from City</source>
+          <target>Buy-from City</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 1750733095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact</source>
+          <target>Buy-from Contact</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from Contact - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 852404356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Post Code</source>
+          <target>Buy-from Post Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 1976942833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from County</source>
+          <target>Buy-from County</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from County - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 2931503505 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Country/Region Code</source>
+          <target>Buy-from Country/Region Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Buy-from Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 580412389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target>Document Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Document Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Posting Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3961227134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Invoice No.</source>
+          <target>Vendor Invoice No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Vendor Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 4272836170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Cr. Memo No.</source>
+          <target>Vendor Cr. Memo No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Vendor Cr. Memo No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3306036976 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Total</source>
+          <target>Check Total</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Check Total - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target>Currency Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Document No.</source>
+          <target>External Document No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 2914143468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CIG Code</source>
+          <target>CIG Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field CIG Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060381896 - Field 3623919605 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CUP Code</source>
+          <target>CUP Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Electr. Doc. Temp. Header - Field CUP Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4015564124 - Method 808925152 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import of %1 documents from Adiuto</source>
+          <target>Import of %1 documents from Adiuto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Adiuto ED Management - Method AdiutoElectrInvoiceImportProcess - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1500853979 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Login failure</source>
+          <target>Login failure</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Adiuto Net Web Service ED - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1500853979 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adiuto Setup not set</source>
+          <target>Adiuto Setup not set</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Adiuto Net Web Service ED - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1500853979 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>document modify on Adiuto Failed</source>
+          <target>document modify on Adiuto Failed</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Adiuto Net Web Service ED - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1500853979 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>document insert on Adiuto Failed</source>
+          <target>document insert on Adiuto Failed</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Adiuto Net Web Service ED - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1500853979 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Delete on Adiuto Failed</source>
+          <target>Document Delete on Adiuto Failed</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Adiuto Net Web Service ED - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1500853979 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get document ID failed</source>
+          <target>Get document ID failed</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Adiuto Net Web Service ED - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4242908777 - Method 2202037598 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SDK Web coming soon</source>
+          <target>SDK Web coming soon</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Adiuto Documents ED - Method RunSDKByBarcode - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4242908777 - Method 2622248491 - NamedType 2133460406" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No document families have been configured for the current document</source>
+          <target>No document families have been configured for the current document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Adiuto Documents ED - Method ViewDocuments - NamedType lCtx001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4242908777 - Method 3134423864 - NamedType 2133460406" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No document families have been configured for the current document</source>
+          <target>No document families have been configured for the current document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Adiuto Documents ED - Method ViewDocumentsFromVariantRec - NamedType lCtx001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4242908777 - Method 578919111 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SDK Web coming soon</source>
+          <target>SDK Web coming soon</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Adiuto Documents ED - Method RunSDK - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4242908777 - Method 118562921 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Imported %1 documents from Adiuto</source>
+          <target>Imported %1 documents from Adiuto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Adiuto Documents ED - Method AdiutoElectrInvoiceDownloadAll - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4242908777 - Method 301302400 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select destination folder</source>
+          <target>Select destination folder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Adiuto Documents ED - Method AdiutoElectrInvoiceSaveFileXML - NamedType Text001</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

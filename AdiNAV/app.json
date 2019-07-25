@@ -1,0 +1,25 @@
+{
+  "id": "f0242fb8-2541-4db0-a63e-cdfeb7337ef3",
+  "name": "AdiNAV",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "showMyCode": true,
+  "idRange": {
+    "from": 75000,
+    "to": 75900
+  },
+  "target": "Internal",
+  "runtime": "2.4"
+}
